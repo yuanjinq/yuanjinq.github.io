@@ -13,12 +13,12 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     yuanjinq 
-zhihu_username:     yuanjinq
 github_username:    yuanjinq
 #twitter_username:   ***
 #facebook_username:  ***
-#linkedin_username:  jinqiang-yuan-000074a1
+linkedin_username:  jinqiang-yuan-000074a1
+weibo_username:     yuanjinq 
+#zhihu_username:     yuanjinq
 lofter_username:    rescue
 
 
