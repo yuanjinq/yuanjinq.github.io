@@ -4,7 +4,7 @@ SEOTitle: 袁进强的博客 | JQBlog
 header-img: img/home-bg.jpg
 email: yuanjinq@gmail.com
 description: "关于程序与设计、机器人与电子、摄影与感悟 | 袁进强，Software Engineer | 这里是 袁进强 的个人博客，与你一起发现更大的世界。"
-keyword: "袁进强, 博士, yuanjinq, rescue, 袁进强的博客, JQ Blog, 博客, 个人网站, 机器人, Web, JavaScript, 前端, 设计"
+keyword: "袁进强, yuanjinq, rescue, 袁进强的博客, JQ Blog, 博客, 个人网站, 机器人, Web, JavaScript, 前端, 设计"
 url: "https://yuanjq.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -16,10 +16,10 @@ RSS: false
 weibo_username:     yuanjinq 
 zhihu_username:     yuanjinq
 github_username:    yuanjinq
-#twitter_username:   huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
-
+#twitter_username:   ***
+#facebook_username:  ***
+#linkedin_username:  jinqiang-yuan-000074a1
+lofter_username:    rescue
 
 
 # Build settings
